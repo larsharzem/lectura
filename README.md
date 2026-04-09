@@ -66,7 +66,7 @@ python run_visualizer.py --interactive
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lectura.git
+git clone https://github.com/larsharzem/lectura.git
 cd lectura
 ```
 
