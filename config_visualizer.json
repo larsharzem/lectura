@@ -1,0 +1,11 @@
+{
+  "mode": "radial",
+  "colors": "#1a1a2e,#16213e,#0f3460,#e94560",
+  "language": "de",
+  "whisper_model": "medium",
+  "ollama_model": "llama3",
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "font_size": 36
+}
